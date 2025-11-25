@@ -36,6 +36,7 @@
     "pflannery.vscode-versionlens",
     "vitest.explorer",
     "vue.volar",
-    "sdras.vue-vscode-snippets"
+    "sdras.vue-vscode-snippets",
+    "steoates.autoimport"
   ]
 }
