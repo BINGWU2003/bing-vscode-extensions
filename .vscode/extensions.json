@@ -37,6 +37,7 @@
     "vitest.explorer",
     "vue.volar",
     "sdras.vue-vscode-snippets",
-    "steoates.autoimport"
+    "steoates.autoimport",
+    "ms-vscode.remote-repositories"
   ]
 }
