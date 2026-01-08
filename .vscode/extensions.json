@@ -38,6 +38,7 @@
     "vue.volar",
     "sdras.vue-vscode-snippets",
     "steoates.autoimport",
-    "ms-vscode.remote-repositories"
+    "ms-vscode.remote-repositories",
+    "hediet.vscode-drawio"
   ]
 }
