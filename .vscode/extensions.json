@@ -39,6 +39,7 @@
     "sdras.vue-vscode-snippets",
     "steoates.autoimport",
     "ms-vscode.remote-repositories",
-    "hediet.vscode-drawio"
+    "hediet.vscode-drawio",
+    "pomdtr.excalidraw-editor"
   ]
 }
