@@ -40,6 +40,7 @@
     "steoates.autoimport",
     "ms-vscode.remote-repositories",
     "hediet.vscode-drawio",
-    "pomdtr.excalidraw-editor"
+    "pomdtr.excalidraw-editor",
+    "antfu.pnpm-catalog-lens"
   ]
 }
